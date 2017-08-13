@@ -1,0 +1,12 @@
+[submodule "lex1"]
+	path = lex1
+	url = https://github.com/franleplant/parsers
+[submodule "lex2"]
+	path = lex2
+	url = https://github.com/franleplant/lexer-py
+[submodule "lex3"]
+	path = lex3
+	url = https://github.com/franleplant/table-driven-lexer.rs
+[submodule "lex4"]
+	path = lex4
+	url = https://github.com/franleplant/automata_lex.rs
